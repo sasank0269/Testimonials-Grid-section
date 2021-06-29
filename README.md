@@ -13,8 +13,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/sasank0269/Testimonials-Grid-section
+- Live Site URL: https://sasank0269.github.io/Testimonials-Grid-section/
 
 
 ### Built with
